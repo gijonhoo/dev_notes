@@ -1,0 +1,19 @@
+JAVA-EWAH: https://github.com/lemire/javaewah 
+Bitmap算法实现
+<!-- https://mvnrepository.com/artifact/com.googlecode.javaewah/JavaEWAH -->
+<dependency>
+    <groupId>com.googlecode.javaewah</groupId>
+    <artifactId>JavaEWAH</artifactId>
+    <version>1.1.6</version>
+</dependency>
+
+AVIATOR: http://code.google.com/p/aviator/
+公式计算
+<!-- https://mvnrepository.com/artifact/com.googlecode.aviator/aviator -->
+<dependency>
+    <groupId>com.googlecode.aviator</groupId>
+    <artifactId>aviator</artifactId>
+    <version>3.1.0</version>
+</dependency>
+
+
