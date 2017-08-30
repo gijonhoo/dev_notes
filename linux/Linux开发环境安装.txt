@@ -1,0 +1,5 @@
+1.安装java jdk   http://blog.csdn.net/huangjingqian/article/details/53893927
+
+2.安装maven      http://blog.csdn.net/mynameissls/article/details/54140176
+
+3.安装redis	 http://blog.csdn.net/ul646691993/article/details/52736279
