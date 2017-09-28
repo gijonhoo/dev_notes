@@ -113,8 +113,16 @@
 >  * [Common](https://github.com/google/auto/tree/master/common) - Helper utilities for writing annotation processors.
 ****
 ># Netty
+>  * [Netty源码(4.1)](https://github.com/netty/netty/tree/4.1)
 >  * [Netty实战源码](https://github.com/ReactivePlatform/netty-in-action-cn)
 >  
+****
+># ZkClient
+>  * [ZkClient](https://github.com/sgroschupf/zkclient) - a zookeeper client, that makes life a little easier. 
+>  
+>  * [主站](http://www.datameer.com)
+>  
+>  * 同类 Curator
 ****
 # =========WEB=========
 ****
