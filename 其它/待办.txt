@@ -1,0 +1,61 @@
+20170822
+正则表达式
+
+
+20170809
+养护系统SVN: https://gc.fuguangwater.com:18917/svn/weihuguanglixitong/2_FD/0_FD_document
+巡检系统SVN：https://gc.fuguangwater.com:18917/svn/guanWanXunCha
+
+养护APP 推送
+
+AppKey : 598bc077b27b0a4bfa000155
+Umeng Message Secret : 046c43d50b082b23d9f86aa4773045cd
+App Master Secret : zpgobddcusjsdbjbdgmwjaxhtkiogesc
+包名 : com.fuguang.yhgl
+
+
+http://developer2.download.nvidia.com/compute/machine-learning/cudnn/secure/v5.1/prod_20161129/8.0/cudnn-8.0-windows10-x64-v5.1.zip?wk4lL9aoeOIrLjuH7eShRkpPHQMQI42MyMjZLj7HodEUm6PlRi_DUG8PVAWGH0BdsUwAw-lq_eSWyxSDEzd5u2dT_kqleqcD0ZAFmHgpW2RvffAlkvgAVfLeK0Noz0h8NTRkY8UrA64IMjxCRZeJXN3U_b0ID-m1SrW5Uc_P_NQ-ONjH7Jga9KLc5Jz3RmF83fpkOPiqfneT7k9X
+
+http://developer2.download.nvidia.com/compute/cuda/8.0/secure/Prod2/local_installers/cuda_8.0.61_win10.exe?-SwY5_ndSydHJ2YXDsdx7GRNrsOchvzmgGKUP3Ze2UIdQqZEfOXpAo86-AIoghp7RqQR8WeaA_Y6e1gH29CParMvzFHGfpyae24W4Sm7dfuHuBOThiZt4kIC64fU67Cpr2ZGp1qvgUtBczvc-KVYM2rtf9WpLq8tr9IEkdjG9N8ps4s
+
+
+
+2017.08.01 
+recyclerview滑动翻页效果
+http://blog.csdn.net/u011686167/article/details/52893237
+http://www.jianshu.com/p/3fe949083029
+
+
+
+2017.07.28
+
+7-24 移植系统源码----gif高效加载的解决方案 Tim
+链接：http://pan.baidu.com/s/1i46qAR7 
+
+ 密码：pwne
+7.26http://pan.baidu.com/s/1boYnkx5 
+
+ 密码：xswk
+7.6链接：http://pan.baidu.com/s/1i5zei8l 
+
+ 密码：r6e0
+7.11：链接: http://pan.baidu.com/s/1hsDtEIw 
+
+ 密码: wrik
+7.13http://pan.baidu.com/s/1qXTcihY 
+
+ 密码：u0c1
+
+
+
+2017.07.21
+https://stackoverflow.com/questions/13477820/android-vertical-viewpager
+
+2017.07.13
+0.Spring
+1.POI
+2.MyBatis
+3.Shiro
+4.Bootstrap-table
+5.jquery.treeTable
+

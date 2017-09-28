@@ -1,0 +1,14 @@
+    <style name="Button" parent="ButtonBase"/>
+    <style name="Button.Compat" parent="ButtonBase.Compat"/>
+    <style name="ButtonBase" parent="android:Widget.Holo.Light.Button"/>
+
+    <style name="QDRadiusButton" parent="@style/Button">
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:paddingLeft">?attr/qmui_content_spacing_horizontal</item>
+        <item name="android:paddingRight">?attr/qmui_content_spacing_horizontal</item>
+        <item name="android:background">@drawable/s_radius_button_bg</item>
+        <item name="android:textColor">@color/s_app_color_blue_2</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">center</item>
+    </style>

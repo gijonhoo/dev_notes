@@ -16,4 +16,36 @@ AVIATOR: http://code.google.com/p/aviator/
     <version>3.1.0</version>
 </dependency>
 
+MINA: http://mina.apache.org/
+开发高性能和高伸缩性网络应用程序的框架
+<!-- https://mvnrepository.com/artifact/org.apache.mina/mina-core -->
+<dependency>
+    <groupId>org.apache.mina</groupId>
+    <artifactId>mina-core</artifactId>
+    <version>3.0.0-M2</version>
+</dependency>
+
+bcel:
+
+common-utils:
+
+common-chain:
+
+common-codec:
+
+common-collections4:
+
+common-lang3:
+
+common-loggin:
+
+common-validator:
+
+okio:
+
+okhttp:
+
+retrofit:
+
+
 

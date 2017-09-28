@@ -1,0 +1,3 @@
+使用django-admin.py startproject xxxx 结果变成在pycharm打开项目,原因：.py文件默认打开方式设置成了pycharm
+django-admin startproject xxxx
+python -m django startproject xxxx
