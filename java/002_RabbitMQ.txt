@@ -1,0 +1,10 @@
+开启WEB管理后台：rabbitmq-plugins enable rabbitmq_management
+打开http://localhost:15672/即可看到管理后台
+
+添加用户：rabbitmqctl  add_user  Username  Password
+删除用户：
+修改用户密码：rabbitmqctl  change_password  Username  Newpassword
+用户列表：rabbitmqctl  list_users
+用户角色：rabbitmqctl  set_user_tags  User  Tag
+
+http://www.cnblogs.com/AloneSword/p/4200051.html
